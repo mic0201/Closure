@@ -1,7 +1,7 @@
 
 #CLOSURE
 * 閉包  
-> 在Function裡面再呼叫一個Function, 而內部Function可以使用外部Function"當下"的資料 
+> 在Function裡面再呼叫一個Function, 而內部Function可以使用外部Function"當下"的資料  
 錯誤的程式：
 ``` bash
   for(var i = 0 ; i <= 3 ; i++){
